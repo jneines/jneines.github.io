@@ -1,8 +1,12 @@
-title: jneines
-description: my page
-author: Jens Nie
 remote_theme: epidrome/cover-card@main
-twitter: jneines
+title: "jneines"
+description: "my page"
+
+twitter: "jneines"
+linkedin: "jneines"
+
+
+social-links-order: [github-user, facebook, twitter, instagram, linkedin, email]
 
 
 social-links:
@@ -10,5 +14,16 @@ social-links:
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
 
+  - name: instagram
+    url-pattern: instagram.com/__USERNAME__
+
   - name: twitter
     url-pattern: twitter.com/__USERNAME__
+
+  - name: linkedin
+    url-pattern: linkedin.com/in/__USERNAME__
+
+  - name: email
+    url-scheme: 'mailto:'
+    url-pattern: '__USERNAME__'
+    icon-class: far fa-2x fa-envelope-open
