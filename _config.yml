@@ -4,24 +4,29 @@ description: "my page"
 
 twitter: "jneines"
 linkedin: "jneines"
+github-user: "jneines"
 
 
 social-links-order: [github-user, facebook, twitter, instagram, linkedin, email]
 
 
 social-links:
-  - name: facebook
-    url-pattern: facebook.com/__USERNAME__
-    icon-class: fab fa-2x fa-facebook-f
+  #- name: facebook
+  #  url-pattern: facebook.com/__USERNAME__
+  #  icon-class: fab fa-2x fa-facebook-f
 
-  - name: instagram
-    url-pattern: instagram.com/__USERNAME__
+  #- name: instagram
+  #  url-pattern: instagram.com/__USERNAME__
 
   - name: twitter
     url-pattern: twitter.com/__USERNAME__
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
+
+  - name: github-user
+    url-pattern: github.com/__USERNAME__
+    icon-class: fab fa-2x fa-github
 
   - name: email
     url-scheme: 'mailto:'
