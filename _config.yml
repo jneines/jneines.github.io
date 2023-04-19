@@ -5,4 +5,4 @@ plugins:
 - jekyll-remote-theme
 
 external:
-  -{title: Twitter, icon: twitter, url: "https://twitter.com/jneines"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/jneines"}
