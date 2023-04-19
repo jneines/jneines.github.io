@@ -1,5 +1,5 @@
-```{figure} avatar.jpg
-```
+[me](avatar.jpg)
+
 Hi there!
 
 It's me.
