@@ -1,6 +1,9 @@
+plugins:
+  - jekyll-remote-theme
+
 remote_theme: epidrome/cover-card@main
 title: "jneines"
-description: "my page"
+description: "my works"
 
 twitter: "jneines"
 linkedin: "jneines"
