@@ -1,3 +1,5 @@
+```{figure} avatar.jpg
+```
 Hi there!
 
 It's me.
