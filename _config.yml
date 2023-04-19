@@ -6,8 +6,12 @@ twitter: "jneines"
 linkedin: "jneines"
 github-user: "jneines"
 
+# Images
+avatar: 'avatar.jpg'
+#background: 'background.jpg'
 
-social-links-order: [github-user, facebook, twitter, instagram, linkedin, email]
+
+social-links-order: [github-user, twitter, linkedin]
 
 
 social-links:
