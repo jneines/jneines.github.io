@@ -1,0 +1,17 @@
+body {
+  /* The image used */
+  background-image: url("me_in_berlin_halftone.png");
+
+  /* Full height */
+  height: 10%;
+
+  /* Center and scale the image nicely */
+  /* background-position: center; */
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+div.huge {
+    font-size: 120px;
+    text-align: center;
+}

@@ -1,0 +1,26 @@
+#######################################################################################
+# A default configuration that will be loaded for all jupyter books
+# See the documentation for help and more options: 
+# https://jupyterbook.org/customize/config.html
+
+#######################################################################################
+# Book settings
+title                       : My Homepage  # The title of the book. Will be placed in the left navbar.
+author                      : Jens Nie  # The author of the book
+copyright                   : "2024"  # Copyright year to be placed in the footer
+# logo                        : logo.png  # A path to the book logo
+
+parse:
+  myst_enable_extensions:
+    - colon_fence
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: cache
+
+
+sphinx:
+  config:
+    html_theme_options:
+      navigation_with_keys: true
