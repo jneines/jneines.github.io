@@ -1,4 +1,4 @@
-target:=my_homepage
+target:=jneines.github.io
 all: book
 
 new: clean book

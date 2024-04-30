@@ -18,6 +18,13 @@ A set of applications based on the [AsyncApp](https://github.com/jneines/async_a
 :::
 
 :::{grid-item-card}
+:link: https://github.com/jneines/telescope
+**Telescope**
+^^^
+A set of applications based on the [AsyncApp](https://github.com/jneines/async_app) Framework to operate the stepper motor I attached to my telescope using a gamepad.
+:::
+
+:::{grid-item-card}
 :link: https://github.com/jneines/mandel-bench
 **Mandelbrot Benchmark**
 ^^^

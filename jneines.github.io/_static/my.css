@@ -15,3 +15,7 @@ div.huge {
     font-size: 120px;
     text-align: center;
 }
+/* remove the theme switch button */
+button.theme-switch-button {
+    display: none !important;
+}
