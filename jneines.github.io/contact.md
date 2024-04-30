@@ -2,33 +2,24 @@
 
 I'm available on various social media channels. Feel free to get in touch with me for comments or if you would like to work with me or simply would like to say hello!
 
-::::{grid} 4
-:::{grid-item}
-[{fab}`github`](https://github.com/jneines)
-:::
+Here's my
+[{fab}`github;fa-2xl`](https://github.com/jneines)
+account.
 
-:::{grid-item}
-[{fab}`x-twitter`](https://twitter.com/jneines)
-:::
+You can also find me on
+[{fab}`linkedin;fa-2xl`](https://linkedin.com/in/jens-nie).
 
-:::{grid-item}
-[{fab}`linkedin`](https://linkedin.com/in/jens-nie)
-:::
 
-:::{grid-item}
-[{fab}`facebook`](https://www.facebook.com/jens.nie.73)
-:::
+Ping me on 
+{fab}`x-twitter;fa-2xl`, 
+{fab}`mastodon;fa-2xl`,
+and
+{fab}`bluesky;fa-2xl`
+using my handle **@jneines**
 
-:::{grid-item}
-[{fab}`mastodon`]()
-:::
 
-:::{grid-item}
-[{fab}`bluesky`]()
-:::
+Or sent me a classic
+[{fas}`envelope;fa-2xl`](mailto:jneines_@_web.de).
 
-:::{grid-item}
-[{fas}`envelope`](mailto:jneines_@_web.de)
-:::
+Note to remove whats obviously wrong in that address though before sending.
 
-::::
