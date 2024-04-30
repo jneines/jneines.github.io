@@ -1,6 +1,4 @@
 body {
-  /* The image used */
-  background-image: url("me_in_berlin_halftone.png");
 
   /* Full height */
   height: 10%;
@@ -11,11 +9,23 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+body[data-theme="dark"] {
+  /* The image used */
+  background-image: url("me_in_berlin_halftone_dark.png");
+
+  }
+body[data-theme="light"] {
+  /* The image used */
+  background-image: url("me_in_berlin_halftone_light.png");
+
+  }
 div.huge {
     font-size: 120px;
     text-align: center;
 }
 /* remove the theme switch button */
+/*
 button.theme-switch-button {
     display: none !important;
 }
+*/
