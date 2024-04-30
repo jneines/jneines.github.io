@@ -3,6 +3,8 @@
 Here are some of my favourite projects I worked on that all live as Open Source Software in my github repository.
 
 ::::{grid} 3
+:gutter: 3
+
 :::{grid-item-card}
 :link: https://github.com/jneines/async_app
 **AsyncApp**

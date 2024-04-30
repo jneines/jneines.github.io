@@ -1,6 +1,7 @@
 # Blog
 
 ::::{grid} 1
+:gutter: 3
 
 :::{grid-item-card}
 :link: https://www.heise.de

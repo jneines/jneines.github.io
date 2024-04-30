@@ -1,6 +1,8 @@
 # Talks
 
 ::::{grid} 2
+:gutter: 3
+
 :::{grid-item-card} Async App - My contribution to hype Pythons Asyncio a bit more
 PyCon DE & PyData Berlin 2024
 ^^^

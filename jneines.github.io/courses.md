@@ -3,6 +3,8 @@
 Every now and then I'm asked to do a Python course. Find the material I used for these right here. Simply click on the cards open the corresponding resources.
 
 ::::{grid} 1
+:gutter: 3
+
 :::{grid-item-card} 
 :link: https://jneines.github.io/practical_python/intro.html
 Practical Python
